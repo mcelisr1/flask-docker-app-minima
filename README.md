@@ -5,5 +5,8 @@ Este repositorio contiene código fuente de Python del [flask.pocoo.org quicksta
 
 ## Prerrequisitos
 
-<a href="https://docs.docker.com/v17.09/engine/installation/" target="_blank" title="Install Docker">Docker</a> y <a href="https://docs.docker.com/compose/install/" target="_blank" title="Install Docker Compose">Docker compose</a> son esenciales para ejecutar nuestra App mínima.
+<a href="https://docs.docker.com/v17.09/engine/installation/" target="_blank" title="Install Docker">Docker</a> y <a href="https://docs.docker.com/compose/install/" target="_blank" title="Install Docker Compose">Docker Compose</a> son esenciales para ejecutar nuestra App mínima.
 
+## License
+
+Este proyecto está licenciado bajo los términos de la licencia MIT.
